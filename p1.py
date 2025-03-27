@@ -1,0 +1,1 @@
+print("fichero python 1")
